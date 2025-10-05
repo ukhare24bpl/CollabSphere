@@ -1,4 +1,5 @@
-HackSphere - An Interactive Coding Platform
+CollabSphere
+ - An Interactive Coding Platform
 
 ---
 
